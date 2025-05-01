@@ -1,0 +1,779 @@
+State: Rajasthan
+Capital: Jaipur
+1. Jaipur
+Description: Known as the "Pink City," Jaipur boasts a rich cultural heritage with historic forts, palaces, and vibrant markets.
+Best Time to Visit: October to March
+Image: https://s7ap1.scene7.com/is/image/incredibleindia/amber-fort-jaipur-rajasthan-1-attr-hero?qlt=82&ts=1726660248715
+Location: https://maps.app.goo.gl/u1cZumND17XzCbFo8
+
+2. Udaipur
+Description: Dubbed the "City of Lakes," Udaipur is renowned for its picturesque lakes and majestic palaces.
+Best Time to Visit: September to March
+Image: https://media.tacdn.com/media/attractions-splice-spp-674x446/06/74/b3/ab.jpg
+Location: https://maps.app.goo.gl/3hzS5unicFcBWdxt7
+
+3. Jaisalmer
+Description: Known as the "Golden City," Jaisalmer is famed for its yellow sandstone architecture and desert landscapes.
+Best Time to Visit: October to March
+Image: https://powertraveller.com/wp-content/uploads/2024/08/1_3-days-jaisalmer-tour-from-jodhpur.jpg
+Location: https://maps.app.goo.gl/2zRhnw4mksX53UTs9
+
+4. Jodhpur
+Description: Known as the "Blue City," Jodhpur is famous for its blue-painted houses and the imposing Mehrangarh Fort.
+Best Time to Visit: October to March
+Image: https://www.jaipurtaxiservices.com/tourpackage/jodhpur-jaisalmer-4-days-tour.webp
+Location: https://maps.app.goo.gl/r77mmFG5WqVDH31KA
+
+5.Pushkar
+Description: A sacred town known for its holy lake and the annual Pushkar Camel Fair.
+Best Time to Visit: October to March
+Image: https://static.toiimg.com/photo/msid-26212164,width-96,height-65.cms
+Location: https://maps.app.goo.gl/7WY8QXKQ81HGG7om9
+
+State: Uttar Pradesh
+Capital: Lucknow
+1. Taj Mahal
+Description: The Taj Mahal is a magnificent white marble mausoleum located in Agra, India, built by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal. Recognized as a UNESCO World Heritage Site, it is celebrated for its stunning architectural beauty and intricate craftsmanship, symbolizing eternal love.
+Best Time to Visit: October to March
+Image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal%2C_Agra%2C_India.jpg/1200px-Taj_Mahal%2C_Agra%2C_India.jpg
+Location: https://maps.app.goo.gl/UCX3C79GYByVuuX29
+
+2. Varanasi
+Description: One of the world's oldest living cities, renowned for its ghats, spiritual rituals along the Ganges, and rich cultural heritage.
+Best Time to Visit: October to March
+Image: https://dhramshala.in/wp-content/uploads/2023/09/varanasi-ghats.jpg
+Location: https://maps.app.goo.gl/EE6FHkzPADt1xqTX7
+
+3. Lucknow
+Description: Known as the "City of Nawabs," Lucknow offers a fascinating blend of regal history, exquisite cuisine, and stunning architectural marvels.
+Best Time to Visit: October to March
+Image: https://s7ap1.scene7.com/is/image/incredibleindia/1-chota-imambara-lucknow-uttar-pradesh-attr-hero?qlt=82&ts=1726648528039
+Location: https://maps.app.goo.gl/We2X2zZbWxMC6uZC6
+
+4. Allahabad (Prayagraj)
+Description: Famous for the sacred confluence of the Ganges, Yamuna, and Saraswati rivers, and known for hosting the grand Kumbh Mela.
+Best Time to Visit: October to March
+Image: https://cdn1.prayagsamagam.com/media/2021/03/10174127/Prayagraj-wideview-prayagsamagam-u-1024x681.jpg
+Location: https://maps.app.goo.gl/RB9XVtQ7eRfkvV4R7
+
+5. Mathura
+Description: The birthplace of Lord Krishna, Mathura is steeped in mythological heritage and vibrant religious traditions.
+Best Time to Visit: October to March
+Image: https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/01/05/5ff2db15dfdd68066ce88c2a9df1cc22_1000x1000.jpg
+Location: https://maps.app.goo.gl/6EEXjjuwGCgPdCeF8
+
+State: Haryana
+Capital: Chandigarh
+1. Sultanpur National Park
+Description: A renowned bird sanctuary that attracts nature lovers with over 250 species of migratory and resident birds.
+Best Time to Visit: October to March
+Image: https://farm6.staticflickr.com/5100/5459003810_a334a19c10_z.jpg
+Location: https://maps.app.goo.gl/qcT5bhrg7MeL3Hct5
+
+2. Pinjore Gardens (Yadavindra Gardens)
+Description: A historic 17th-century Mughal garden famed for its terraced lawns, vibrant flower beds, and elegant fountains.
+Best Time to Visit: October to April
+Image: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/81/91/c1/yadvinder-garden.jpg?w=900&h=500&s=1
+Location: https://maps.app.goo.gl/aUXcgup1fZVzUEPa9
+
+3. Morni Hills
+Description: A tranquil hill station in Haryana offering panoramic views, lush greenery, and a cool respite from city life.
+Best Time to Visit: March to June and September to November
+Image: https://media.holidify.com/images/cmsuploads/compressed/navbharat-times_20241203093706.jpg
+Location: https://maps.app.goo.gl/5BdsZCtsFuSznoif6
+
+State: Himachal Pradesh
+Capital: Shimla
+1. Shimla
+Description: A charming colonial hill station offering scenic mountain views and a blend of history with modern amenities.
+Best Time to Visit: March to June and September to November
+Image: https://www.clubmahindra.com/blog/media/section_images/shuttersto-1a47b83e6a03271.jpg
+Location: https://maps.app.goo.gl/Jy7f5s5JBTjTmAyu6
+
+2. Manali
+Description: A picturesque town famed for its adventure sports, ancient temples, and breathtaking snow-capped mountains.
+Best Time to Visit: March to June and September to November
+Image: https://www.naturetravelagency.com/uploads/1703234831best%20time%20to%20visit%20Manali%20for%20snowfall.jpg
+Location: https://maps.app.goo.gl/AgUipa9tvHRcrLc59
+
+3. Dharamshala
+Description: Nestled in the Dhauladhar range, this serene town is celebrated for its Tibetan culture and spiritual ambiance.
+Best Time to Visit: March to June and September to November
+Image: https://yatralipi.com/wp-content/uploads/2022/04/Dharamshala-scaled-1.jpg
+Location: https://maps.app.goo.gl/tcfHhviu2fYvGBPy8
+
+4. Dalhousie
+Description: A quaint hill station with colonial charm, offering panoramic vistas and a peaceful retreat from the hustle.
+Best Time to Visit: March to June and September to November
+Image: https://www.bharatbooking.com/admin/webroot/img/uploads/holiday-package-gallery/1699516712_712785-dalhousie-khajjiar-chamba-tour-package-slider-image.webp
+Location: https://maps.app.goo.gl/X7iHyzVaQz13mBTk6
+
+State: Punjab
+Capital: Chandigarh
+1. Golden Temple (Harmandir Sahib)
+Description: The holiest shrine of Sikhism, renowned for its stunning golden architecture and serene spiritual ambiance.
+Best Time to Visit: November to March
+Image: https://avathioutdoors.gumlet.io/travelGuide/dev/amritsar_P3837.jpg
+Location: https://maps.app.goo.gl/z3vCCbmuyu5E9gocA
+
+2. Jallianwala Bagh
+Description: A historic memorial marking the site of the 1919 massacre, symbolizing the sacrifices made during India's freedom struggle.
+Best Time to Visit: November to March
+Image: https://s7ap1.scene7.com/is/image/incredibleindia/jallianwala-bagh-amritsar-punjab-1-attr-hero?qlt=82&ts=1726662275638
+Location: https://maps.app.goo.gl/ho5uvgfZca2fnsym7
+
+3. Wagah Border
+Description: Famous for its daily border-closing ceremony, this site offers a dramatic display of patriotism and military precision.
+Best Time to Visit: October to March
+Image: https://visitplacesindia.com/wp-content/uploads/2024/11/wagah-border-amritsar.jpg
+Location: https://maps.app.goo.gl/CEmUihgpTTv75unE6
+
+State: Uttarakhand
+Capital: Dehradun
+1. Nainital
+Description: A charming hill station famed for its scenic lake, colonial architecture, and pleasant ambience.
+Best Time to Visit: April to June and September to November
+Image: https://www.nainital.info/wp-content/uploads/2020/01/Nainital-Snowfall-City-View2.jpg
+Location: https://maps.app.goo.gl/cU2w9ydqoywwBVm6A
+
+2. Mussoorie
+Description: A popular hill station offering breathtaking Himalayan views and a blend of colonial heritage and modern comforts.
+Best Time to Visit: March to June and September to November
+Image: https://kanatalheights.com/wp-content/uploads/2021/03/mussorroe.jpg
+Location: https://maps.app.goo.gl/oXJXtd6Dm4HmbAkJ8
+
+3. Rishikesh
+Description: The yoga capital of the world, renowned for its spiritual retreats, adventure sports, and serene Ganges-side settings.
+Best Time to Visit: February to May and August to November
+Image: https://www.mytourplans.com/storage/blogs/63feed7338b40156_temple-tour-in-rishikesh.jpg
+Location: https://maps.app.goo.gl/CetwtXAi5hUvinMk9
+
+4. Haridwar
+Description: A sacred city on the banks of the Ganges, celebrated for its ghats, spiritual ceremonies, and cultural vibrancy.
+Best Time to Visit: September to March
+Image: https://www.chardham-pilgrimage-tour.com/assets/images/haridwar-banner3.webp
+Location: https://maps.app.goo.gl/oSKrNaZtD6TzAKd98
+
+5. Jim Corbett National Park
+Description: India's oldest national park, offering thrilling wildlife safaris amidst lush forests and diverse fauna.
+Best Time to Visit: November to June
+Image: https://static.toiimg.com/thumb/104466333/jim-corbett.jpg?width=1200&height=900
+Location: https://maps.app.goo.gl/cEQ6sRaXxsukhmFUA
+
+State: Chandigarh (UT)
+Capital: Chandigarh
+1. Rock Garden
+Description: A unique open-air art installation featuring innovative sculptures crafted from recycled materials.
+Best Time to Visit: October to March
+Image: https://travelertree.in/wp-content/uploads/2022/07/rockgarden-10-of-19.jpg
+Location: https://maps.app.goo.gl/5dM6VMphmeDNKS78A
+
+2. Sukhna Lake
+Description: A serene man-made lake offering boating, leisurely walks, and picturesque sunset views.
+Best Time to Visit: October to March
+Image: https://treeofliferesorts.com/wp-content/uploads/2022/12/v52u7nl6wrhqun945be5g09z0c0a_1597150108_shutterstock_1211074951-1024x576.webp
+Location: https://maps.app.goo.gl/FMND218qK2hUJB8f7
+
+3. Zakir Hussain Rose Garden
+Description: Asia’s largest rose garden, showcasing an extensive collection of vibrant and aromatic rose varieties.
+Best Time to Visit: October to March
+Image: https://i.pinimg.com/736x/2c/ce/59/2cce59bd3770dbb3b853d565f73ae38a.jpg
+Location: https://maps.app.goo.gl/gf2ykCX2sEmLPYia9
+
+State: Delhi (UT)
+Capital: New Delhi
+1. Red Fort
+Description: A historic fort and UNESCO World Heritage site showcasing the rich Mughal legacy.
+Best Time to Visit: October to March
+Image: https://media-cdn.tripadvisor.com/media/photo-s/10/3c/4a/42/fb-img-1502472371491.jpg
+Location: https://maps.app.goo.gl/4d8XeAjQY9zxZmHF8
+
+2. Qutub Minar
+Description: The world's tallest brick minaret, exemplifying Indo-Islamic architecture and history.
+Best Time to Visit: October to March
+Image: https://www.thedelhitours.com/blog/wp-content/uploads/2024/09/Qutub-Minar.jpg
+Location: https://maps.app.goo.gl/XHqRBYtVJafyKQcs8
+
+3. India Gate
+Description: A grand war memorial honoring the soldiers of World War I, set amidst expansive lawns.
+Best Time to Visit: October to March
+Image: https://tourguideblog.com/wp-content/uploads/2024/01/Untitled-design-6.jpg
+Location: https://maps.app.goo.gl/TsLzbhquaxdSQHwFA
+
+4. Humayun's Tomb
+Description: A UNESCO World Heritage site and a stunning example of Mughal architecture that inspired the Taj Mahal.
+Best Time to Visit: October to March
+Image: https://kevinstandagephotography.wordpress.com/wp-content/uploads/2021/03/ksp_0329ss.jpg
+Location: https://maps.app.goo.gl/CCBYCELQLMzZC3Zw6
+
+5. Lotus Temple
+Description: A serene Bahá'í House of Worship known for its unique lotus-inspired design and tranquil ambiance.
+Best Time to Visit: October to March
+Image: https://chardhambooking.com/wp-content/uploads/2021/01/Lotus-Tmple-Photo-by-Arpan-Das.jpg
+Location: https://maps.app.goo.gl/W6UJ7B5KnCAi9Ck16
+
+State: Jammu and Kashmir (UT)
+Capital: Srinagar (Summer), Jammu (Winter)
+1. Srinagar
+Description: The summer capital of Jammu and Kashmir, renowned for its enchanting Dal Lake, Mughal gardens, and iconic houseboats.
+Best Time to Visit: April to October
+Image: https://timesofindia.indiatimes.com/travel/destinations/is-october-the-best-time-to-visit-srinagar/articleshow/113548484.cms
+Location: https://maps.app.goo.gl/mEFKt8mFxWdCdEpY9
+
+2. Gulmarg
+Description: A picturesque hill station and premier skiing destination offering breathtaking views, snow-covered slopes, and a famous cable car ride.
+Best Time to Visit: December to March (for skiing); April to June for sightseeing
+Image: https://www.india.com/wp-content/uploads/2024/12/Gulmarg-1-1.jpg
+Location: https://maps.app.goo.gl/kvceVieJm67Xs7bV6
+
+3. Pahalgam
+Description: A scenic town set amidst lush green valleys and the Lidder River, popular for trekking, river rafting, and its serene landscapes.
+Best Time to Visit: April to June and September to November
+Image: https://assets.cntraveller.in/photos/60ba1148a1a415b43b10b8a0/master/pass/Getaways-Lead.jpg
+Location: https://maps.app.goo.gl/qzdefHMMt7Fia5sw9
+
+4. Sonamarg
+Description: A pristine valley known for its golden meadows, glacier-fed streams, and as a gateway for Himalayan treks and river rafting.
+Best Time to Visit: June to September
+Image: https://plutotours.in/places/wp-content/uploads/2024/02/8.-Krishnasar-Lake-1.webp
+Location: https://maps.app.goo.gl/DbG8qHgDox35rtSTA
+
+5. Jammu City
+Description: A historically rich city serving as the gateway to the valley, famed for its ancient temples, vibrant bazaars, and cultural heritage.
+Best Time to Visit: October to March
+Image: https://blogs.revv.co.in/blogs/wp-content/uploads/2021/11/Jammu.jpg
+Location: https://maps.app.goo.gl/Ynbo4d1vPicasMs67
+
+State: Ladakh (UT)
+Capital: Leh
+1. Pangong Tso
+Description: A mesmerizing high-altitude lake famed for its ever-changing shades of blue set against a dramatic Himalayan backdrop.
+Best Time to Visit: May to September
+Image: https://static.toiimg.com/thumb/msid-79549873,width-748,height-499,resizemode=4,imgsize-1296676/.jpg
+Location: https://maps.app.goo.gl/JCbbaAmgqs2N99iF9
+
+2. Leh Palace
+Description: A 17th-century palace offering panoramic views of Leh and a glimpse into Ladakh's regal history.
+Best Time to Visit: May to September
+Image: https://s7ap1.scene7.com/is/image/incredibleindia/leh-palace-leh-ladakh-2-musthead-hero?qlt=82&ts=1726668053114
+Location: https://maps.app.goo.gl/fWrqmMHpod5UCmvm9
+
+3. Nubra Valley
+Description: A surreal high-altitude desert valley known for its sand dunes, Bactrian camels, and stunning landscapes.
+Best Time to Visit: June to September
+Image: https://discoverwithdheeraj.com/wp-content/uploads/2014/10/258.jpg
+Location: https://maps.app.goo.gl/4mv3ZPmwej9ApAEHA
+
+4. Hemis Monastery
+Description: The largest monastery in Ladakh, celebrated for its vibrant annual festival and rich Buddhist cultural heritage.
+Best Time to Visit: May to September
+Image: https://www.savaari.com/blog/wp-content/uploads/2023/09/Hemis_festival1.webp
+Location: https://maps.app.goo.gl/z8WbBDfaEMkd67fx8
+                         
+State: Andhra Pradesh
+Capital: Amaravati
+1. Tirupati
+Description: A revered pilgrimage center home to the iconic Sri Venkateswara Temple, attracting millions of devotees annually.
+Best Time to Visit: September to February
+Image: https://www.hindustantimes.com/ht-img/img/2024/09/20/550x309/tirupati_1726807067926_1726807102179.jpg
+Location:https://maps.app.goo.gl/Tj9aG5C1UJ1GNUbA9
+
+2. Araku Valley
+Description: A scenic hill station nestled in the Eastern Ghats, famous for its lush landscapes, tribal culture, and coffee plantations.
+Best Time to Visit: October to March
+Image: https://www.savaari.com/blog/wp-content/uploads/2021/05/Araku-Valley7-waterfalls.jpg
+Location:https://maps.app.goo.gl/Jpv1Mv4bEJo856Tj7
+
+3. Visakhapatnam (Vizag)
+Description: A vibrant coastal city known for its pristine beaches, scenic hills, and a blend of modernity with traditional charm.
+Best Time to Visit: October to March
+Image: https://www.bizzbuzz.news/h-upload/2024/01/19/1850440-vizag.webp
+Location:https://maps.app.goo.gl/S1BGVfqZwHk5wDnn8
+
+4. Vijayawada
+Description: A historic city steeped in cultural heritage, highlighted by the iconic Kanaka Durga Temple overlooking the Krishna River.
+Best Time to Visit: October to March
+Image: https://s3.india.com/wp-content/uploads/2024/09/vijayawada-photography.jpg
+Location:https://maps.app.goo.gl/1PpZrtSZnomCffsGA
+
+5. Srisailam
+Description: A sacred town set against the backdrop of the Nallamala forests, renowned for the ancient Mallikarjuna temple and its serene environs.
+Best Time to Visit: November to February
+Image: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-5i1ltlh26neka5e88ctds9so05-20190226052124.Medi.jpeg
+Location:https://maps.app.goo.gl/HCq2QKtSidQvPGSq6
+
+State: Karnataka
+Capital: Bengaluru
+1. Mysore
+Description: Famed for its royal heritage, magnificent palaces, and vibrant festivals, Mysore is a cultural gem in Karnataka.
+Best Time to Visit: October to February
+Image: https://www.holidaymonk.com/wp-content/uploads/2022/05/Mysore-Palace-1024x684.webp
+Location:https://maps.app.goo.gl/UUjiHu2n8CZRMDhx9
+
+2. Hampi
+Description: A UNESCO World Heritage site showcasing ancient ruins, stunning temples, and surreal landscapes from the Vijayanagara empire.
+Best Time to Visit: October to February
+Image: https://beonthetrail.com/storage/blogs/5/0C1lRwEGGcEnY2R47O2hPOPlZTpmOjKtNGkW8817.jpg
+Location:https://maps.app.goo.gl/KYJHY5ZDzL1fCJPX8
+
+3. Coorg (Kodagu)
+Description: Known as the Scotland of India, Coorg is celebrated for its lush coffee plantations, scenic waterfalls, and cool, refreshing climate.
+Best Time to Visit: October to March
+Image: https://anjaneyatravels.com/wp-content/uploads/2024/06/Featured-image-Green-hills-at-CoorgIndia-1244x700-1.jpg
+Location:https://maps.app.goo.gl/Nphx4LhU3srbC4yB7
+
+4. Bangalore (Bengaluru)
+Description: A dynamic metropolis blending modernity with heritage, highlighted by landmarks such as the Bangalore Palace and lush gardens.
+Best Time to Visit: November to February
+Image: https://deih43ym53wif.cloudfront.net/bangalore-india-shutterstock_662210488_ac0dd8543d.jpeg
+Location:https://maps.app.goo.gl/GW7ndY5GyEYiV6fp8
+
+5. Bandipur National Park
+Description: A premier wildlife sanctuary offering thrilling jeep safaris and a chance to witness diverse flora and fauna in their natural habitat.
+Best Time to Visit: October to May
+Image: https://irisholidays.com/keralatourism/wp-content/uploads/2024/09/bandipur-national-park.jpg
+Location:https://maps.app.goo.gl/WjTW9Xt7BqbsCaNa8
+
+State: Kerala
+Capital: Thiruvananthapuram
+1. Munnar
+Description: A charming hill station famous for its sprawling tea gardens, rolling hills, and cool, refreshing climate.
+Best Time to Visit: September to March
+Image: https://content.r9cdn.net/rimg/dimg/a9/dd/d6b29241-city-44818-166a7453734.jpg?width=1366&height=768&xhint=1600&yhint=1049&crop=true
+Location : https://maps.app.goo.gl/VUfuy8H1UPpwkxrH9
+
+2. Alleppey (Alappuzha)
+Description: Known as the "Venice of the East," Alleppey enchants visitors with its intricate network of backwaters and houseboat cruises.
+Best Time to Visit: November to February
+Image: https://www.seawatersports.com/images/places/alleppey-in-kerala.jpg
+Location: https://maps.app.goo.gl/TJtSmn8csiS5EYX88
+
+3. Kochi (Cochin)
+Description: A vibrant port city that beautifully blends historical charm with modern amenities and scenic coastal views.
+Best Time to Visit: October to March
+Image: https://www.india.com/wp-content/uploads/2024/08/Fort-Kochi.jpg
+Location: https://maps.app.goo.gl/jvxCU2kWPfNyVvTH9
+
+4. Kovalam
+Description: A picturesque coastal town celebrated for its crescent-shaped beaches, iconic lighthouse, and water sports.
+Best Time to Visit: September to March
+Image: https://www.thebyke.com/wp-content/uploads/2023/06/Kovalam-2.jpg
+Location:https://maps.app.goo.gl/FCvdksXMzMicz39T6
+
+5. Wayanad
+Description: A lush, scenic district renowned for its dense forests, waterfalls, wildlife sanctuaries, and rich tribal heritage.
+Best Time to Visit: October to May
+Image: https://s3.india.com/wp-content/uploads/2024/06/10-Must-Do-Activities-in-Wayanad.jpg?impolicy=Medium_Widthonly&w=350&h=263
+Location :https://maps.app.goo.gl/A9SaBFo33k1tC2Xa7
+
+State: Tamil Nadu
+Capital: Chennai
+1. Chennai
+Description: A bustling metropolitan hub known for its rich cultural heritage, iconic Marina Beach, and vibrant arts and culinary scene.
+Best Time to Visit: November to February
+Image: https://i0.wp.com/trailstainedfingers.com/wp-content/uploads/2019/04/chennai.jpg?fit=1920%2C1280&ssl=1
+Location:https://maps.app.goo.gl/dHJjmVXXjtmHWHzM6
+
+2. Madurai
+Description: One of India’s oldest cities, celebrated for the magnificent Meenakshi Amman Temple and its enduring Dravidian architecture.
+Best Time to Visit: October to March
+Image: https://upload.wikimedia.org/wikipedia/commons/a/a6/Meenakshi_Amman_Temple_Tank.jpg
+Location:https://maps.app.goo.gl/bh61HYBKiES3WDSCA
+
+3. Ooty (Udagamandalam)
+Description: A picturesque hill station set amid rolling tea gardens and verdant valleys, offering a cool escape from the plains.
+Best Time to Visit: April to June and September to November
+Image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXXNWrOdIxtdjz-bqVqHhshajJ90pzz5hREHH15NykvNABinLVuJVfGbcLecQ1bqsaeyfE4uD_8or0F_Xl0IgpkzYZ5UuHvQMCkHRDmjAsF1C4P4s5_doNrK9wbOSEFI2POngjyT9cQYNb/s1600/ooty+tourism+must+see+places+in+ooty.jpg
+Location:https://maps.app.goo.gl/ejhLEHpDF6ztZiWi7
+
+4. Kodaikanal
+Description: Known as the “Princess of Hill Stations,” Kodaikanal charms visitors with its mist-covered mountains, serene lakes, and cascading waterfalls.
+Best Time to Visit: April to June and September to November
+Image: https://www.stayvista.com/blog/wp-content/uploads/2024/11/24271869876_485a96419a_c.jpg
+Location:https://maps.app.goo.gl/PgHGPpipA5r9mXW37
+
+5. Rameswaram
+Description: A sacred coastal town steeped in mythology, renowned for its ancient temples, pristine beaches, and spiritual ambiance.
+Best Time to Visit: November to February
+Image: https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2024/07/17172058/rameswaram-1-1600x900.jpeg
+Location:https://maps.app.goo.gl/NHphsws8W4ru6y8k9
+
+State: Telangana
+Capital: Hyderabad
+1. Charminar
+Description: The iconic monument of Hyderabad, symbolizing the city's rich history and architectural grandeur.
+Best Time to Visit: October to March
+Image: https://touradvisorhub.com/wp-content/uploads/2023/06/Charminar.jpg
+Location:https://maps.app.goo.gl/eNAorBcLV9p7RMAa7
+
+2. Ramoji Film City
+Description: One of the world's largest film studio complexes offering immersive cinematic experiences and entertainment.
+Best Time to Visit: October to March
+Image: https://www.travelure.in/wp-content/uploads/2022/03/Ramoji-Header-1.jpg
+Location:https://maps.app.goo.gl/kNfPgSnn1ecdyxM89
+
+3. Golconda Fort
+Description: A majestic fortress known for its architectural brilliance and the captivating history of the Qutb Shahi dynasty.
+Best Time to Visit: October to March
+Image: https://i0.wp.com/weekendyaari.in/wp-content/uploads/2024/09/weekend-yaari-golkonda.jpg?fit=1024%2C597&ssl=1
+Location:https://maps.app.goo.gl/bxnb87G8y8z8zYem8
+
+4. Hussain Sagar Lake
+Description: A scenic man-made lake featuring the iconic Buddha statue at its center and offering leisurely boating experiences.
+Best Time to Visit: October to March
+Image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hussain_Sagar_lake%2C_Hyderabad.jpg/1280px-Hussain_Sagar_lake%2C_Hyderabad.jpg
+Location:https://maps.app.goo.gl/Twn9p4KNyd2FZB9q8
+
+5. Salar Jung Museum
+Description: One of India's largest art museums, showcasing an eclectic collection of artifacts from diverse cultures and eras.
+Best Time to Visit: October to March
+Image: https://map.sahapedia.org/admin/assets/images/202105191621412730_Banner.jpg?__imr__=bannerMuseum
+Location:https://maps.app.goo.gl/Yzjih3uoWrQ9eUdr8
+
+State: Lakshadweep (UT)
+Capital: Kavaratti
+1. Bangaram Island
+Description: A pristine, uninhabited island renowned for its turquoise lagoons, powdery white sands, and vibrant coral reefs—ideal for water sports and tranquil escapes.
+Best Time to Visit: October to March
+Image: https://www.lakshadweeptoursandtravels.com/images/ba-4.jpg
+Location: https://maps.app.goo.gl/2C6oWo89ozF7mhEFA
+
+2. Minicoy Island
+Description: A culturally rich atoll celebrated for its iconic lighthouse, traditional customs, and panoramic ocean views.
+Best Time to Visit: October to March
+Image: https://lh3.googleusercontent.com/ZLDKB6i32xiFy6Vf0eb3AzKG6UDw79HJEGBsHGDEa6ghaq-vanpEUAYl7AC8jOBwy8dRqS1t0qGaivbgglU0kRY0faYogrWrbcJ9V9yg=h450-rw
+Location: https://maps.app.goo.gl/UjNWzBvv9ubiX17PA
+
+3. Kavaratti
+Description: The administrative capital of Lakshadweep, known for its vibrant marine life, excellent water sports, and serene beaches.
+Best Time to Visit: October to March
+Image: https://s7ap1.scene7.com/is/image/incredibleindia/thinnakara-kavaratti-lakshwadeep-1-musthead-hero?qlt=82&ts=1727011585498
+Location:https://maps.app.goo.gl/moS5KC5XZe68ANmVA
+
+State: Puducherry (UT)
+Capital: Puducherry
+1. Promenade Beach
+Description: A scenic seafront stretch in Puducherry known for its vibrant atmosphere, historical monuments, and sunset views.
+Best Time to Visit: October to March
+Image: https://i0.wp.com/pondicherryin.com/wp-content/uploads/2021/01/Rock-Beach2-1.jpg?fit=1068%2C713&ssl=1
+Location: https://maps.app.goo.gl/RGoD3Bssp8PkDzt16
+
+2. Auroville
+Description: An experimental township dedicated to sustainable living and spiritual growth, centered around the iconic Matrimandir.
+Best Time to Visit: October to March
+Image: https://files.auroville.org/auroville-org/a6d6af4c-f63c-4eb9-be54-9a92561dd2bd.jpg
+Location: https://maps.app.goo.gl/cDhGFzJZhhe4jNin7
+
+3. Paradise Beach
+Description: A pristine, golden-sand beach accessible by boat, offering a tranquil escape with calm waters and scenic views.
+Best Time to Visit: October to March
+Image: https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/28/d3/d0.jpg
+Location : https://maps.app.goo.gl/edaqbAqw1T5RAYqr8
+
+4. French Quarter (White Town)
+Description: A charming area distinguished by its colonial architecture, vibrant streets, and a mix of quaint cafes and boutiques.
+Best Time to Visit: October to March
+Image: https://tripxl.com/blog/wp-content/uploads/2024/11/French-Quarter-White-Town.jpg
+Location: https://maps.app.goo.gl/wkTz28rb6E86knm96
+
+State: Arunachal Pradesh
+Capital: Itanagar
+1. Tawang
+Description: Home to the Tawang Monastery, one of the largest Buddhist monasteries in India, Tawang offers breathtaking views of the Himalayas and a deep spiritual ambiance.​ 
+Best Time to Visit: March to October.​
+Image: https://s7ap1.scene7.com/is/image/incredibleindia/bumla-pass-tawang-arunachal-pradesh-1-attr-hero?qlt=82&ts=1726743173012
+Location :https://maps.app.goo.gl/ubJWGJh9kASMeBC19
+
+2. Ziro Valley
+Description: Known for its lush paddy fields and the unique Apatani tribal culture, Ziro Valley is a haven for nature lovers and cultural enthusiasts.​
+Best Time to Visit: Throughout the year.​
+Image: https://s3.india.com/wp-content/uploads/2024/07/Ziro-Arunachal-Pradesh_-Top-Tips-For-First-Time-Travelers-Revealed.jpg
+Location: https://maps.app.goo.gl/ejVvUrTxjZFonasY9
+
+3. Bomdila
+Description: Offering panoramic views of the Himalayan ranges, Bomdila is famed for its Buddhist monasteries and apple orchards.​
+Best Time to Visit: April to October.​
+Image: https://vibrant.holiday/uploads/guide/images/15559218534.jpg
+Location:https://maps.app.goo.gl/W2ts7JLBtC6TZdsT6
+
+4. Dirang
+Description: A picturesque valley known for its pleasant climate, hot water springs, and the Dirang Dzong, a historical fort.​
+Best Time to Visit: Throughout the year.​
+Image: https://www.thetourindia.com/flashphotos/photos/8b230abcafe506769b8dcf1aad1d2eb1.webp
+Location : https://maps.app.goo.gl/Z5kddR57pz9Sx3MR9
+
+5. Itanagar
+Description: The capital city, blending modernity with tradition, is home to the Itanagar Wildlife Sanctuary and the historic Ita Fort.​
+Best Time to Visit: October to April.​
+Image: https://www.indianholiday.com/wordpress/wp-content/uploads/2024/08/dest_head_img-830.png
+Location: https://maps.app.goo.gl/F6BUPyAkuNHuqq7S9
+
+State: Goa
+Capital: Panaji
+1. Baga Beach
+Description: A lively beach known for water sports, vibrant nightlife, and an array of dining options.​
+Best Time to Visit: November to February.​
+Image: https://blog.hireavilla.in/wp-content/uploads/2024/05/chair-table-dinning-beach-sea-with-blue-sky-scaled.jpg
+Location: https://maps.app.goo.gl/AWXSBDTWSuaYMyX38
+
+2. Calangute Beach
+Description: Dubbed the 'Queen of Beaches,' it's the largest in North Goa, attracting tourists with its festive atmosphere.​
+Best Time to Visit: November to February.​ 
+Image: https://www.goa.gov.in/wp-content/uploads/2020/08/Calangutemain.jpg
+Location : https://maps.app.goo.gl/q19eyZ6LHn5QD1Ju8
+
+3. Panaji (Panjim)
+Description: The capital city, known for its colonial architecture, vibrant markets, and the historic Our Lady of the Immaculate Conception Church.​
+Best Time to Visit: November to February.​
+Image: https://d26dp53kz39178.cloudfront.net/media/uploads/Travel_Guide_Images/Panaji_result.webp
+Location: https://maps.app.goo.gl/nsd1Jd4qVkpaFmMy7
+
+4. Palolem Beach
+Description: A serene beach known for its crescent shape, calm waters, and vibrant nightlife.​
+Best Time to Visit: November to February.​
+Image: https://clubmahindra.gumlet.io/blog/media/section_images/palolembea-b0b10c223bd68f2.webp?w=376&dpr=2.6
+Location :https://maps.app.goo.gl/3uGjtWgiw5Mx1a7J6
+
+State: Manipur
+Capital: Imphal
+1. Imphal
+Description: The capital city of Manipur, Imphal is a blend of historical significance and natural beauty. Key attractions include the Kangla Fort, a symbol of Manipur's royal heritage, and the bustling Ima Market, one of the largest all-women's markets in Asia.​ 
+Best Time to Visit: October to April.​
+Image: https://s7ap1.scene7.com/is/image/incredibleindia/2-iskcon-temple-imphal-manipur-2-city-hero?qlt=82&ts=1726666482936
+Location :https://maps.app.goo.gl/AtbWLs9KSnCqPfLi7
+
+2. Loktak Lake
+Description: Located near Moirang, Loktak Lake is the largest freshwater lake in northeastern India, renowned for its phumdis (floating islands). The lake is also home to the Keibul Lamjao National Park, the only floating national park globally, which shelters the endangered Sangai deer.​ 
+Best Time to Visit: November to March.​
+Image: https://insideindiatour.files.wordpress.com/2020/09/1466c2a3c90e6f8abd81d115cc0a842d.jpg
+Location: https://maps.app.goo.gl/sKK5GXqvUp2WQw2a7
+
+3. Thoubal
+Description: Thoubal is known for its scenic landscapes, including the Thoubal River, making it ideal for outdoor activities like rafting and kayaking. The town also boasts several markets and temples, reflecting the local culture.​ 
+Best Time to Visit: October to March.​
+Image: https://img.traveltriangle.com/blog/wp-content/uploads/2019/01/cover-for-Places-To-Visit-In-Manipur.jpg
+Location :https://maps.app.goo.gl/7pHpYQ3u1F5tjKxj6
+
+4. Ukhrul
+Description: A serene hill station, Ukhrul is famous for its natural beauty, including the Shirui Lily, which blooms only in this region. The area is also known for its vibrant tribal culture and festivals.​
+Best Time to Visit: April to June.​
+Image: https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/04/Geographical-1.jpg?size=*:900
+Location : https://maps.app.goo.gl/c2TY75nt4uw7sV1w5
+
+5. Chandel
+Description: Bordering Myanmar, Chandel is known for its rich biodiversity and as a cultural hub for various tribes. The area offers lush landscapes and unique cultural experiences.​
+Best Time to Visit: October to March.​
+Image: https://www.vivacepanorama.com/wp-content/uploads/2015/10/Chandel-of-Bundelkhand.jpg
+Location : https://maps.app.goo.gl/bYs3Rt2mj6zu1fx77
+
+State: Mizoram
+Capital: Aizawl
+1. Aizawl
+Description: The capital city, Aizawl, is perched atop a ridge at 1,132 meters, offering panoramic views of the surrounding hills. It's a cultural hub showcasing Mizo traditions, bustling markets, and colonial-era architecture.​
+Best Time to Visit: November to March.​
+Image: https://www.indian-travel-places.com/wp-content/uploads/2022/02/Aizawl.jpg
+Location :https://maps.app.goo.gl/YcgRy467W5od98TV6
+
+2. Reiek
+Description: Reiek is a mountain and tourist spot located 29 km from Aizawl, standing at 1,465 meters. It offers panoramic views of the surrounding valleys and hills, and on clear days, the plains of Bangladesh are visible. The area is rich in flora and fauna, making it ideal for nature enthusiasts.​
+Image: https://www.connectingtraveller.com/images/localtip/1654204982Ed_OjxoX0AEiMHq.jpg
+Location : https://maps.app.goo.gl/eUg1HkayXsU6PaBE7
+Best Time to Visit: November to March.​
+
+3. Champhai
+Description: Champhai, located near the Myanmar border, is known as the "Rice Bowl of Mizoram." It offers expansive rice fields, scenic landscapes, and ancient relics, making it a blend of natural beauty and historical significance.​
+Best Time to Visit: November to March.​
+Image: https://s7ap1.scene7.com/is/image/incredibleindia/6-rih-dhdil-lake-champhai-mizoram-city-hero-new?qlt=82&ts=1726674860746
+Location : https://maps.app.goo.gl/YgAKbgM9fQ2qzoQe6
+
+4. Phawngpui National Park
+Description: Also known as the Blue Mountain National Park, Phawngpui is the highest peak in Mizoram at 2,157 meters. The park is renowned for its diverse flora and fauna, including rare species like the clouded leopard and the Blyth's tragopan.​
+Best Time to Visit: November to April.​
+Image: https://upload.wikimedia.org/wikipedia/commons/1/1b/Phawngpui_national_park.jpg
+Location : https://maps.app.goo.gl/kwH9tJUe17MJFhP36
+
+5. Tam Dil Lake
+Description: Tam Dil, meaning 'Lake of Mustard,' is a serene natural lake surrounded by evergreen forests. It's a popular spot for picnics, boating, and fishing, offering tranquility away from urban life.​
+Best Time to Visit: November to March.​
+Image: https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/01/18/9ab369846345d355942669a9baf7807b_1000x1000.jpg
+Location : https://maps.app.goo.gl/o22L2V4cDxoQgvAw5
+
+State: Nagaland
+Capital: Kohima
+1. Kohima
+Description: As the capital city, Kohima is steeped in history and culture. It is home to the Kohima War Cemetery, a memorial dedicated to soldiers of World War II, and offers vibrant markets and traditional Naga architecture.​
+Best Time to Visit: October to May.​
+Image: https://images.wanderon.in/blogs/new/2024/02/kohima-min.jpg
+Location: https://maps.app.goo.gl/fbd5teSAyUST22PG6
+
+2. Dimapur
+Description: Known as the commercial hub of Nagaland, Dimapur boasts historical sites like the Kachari Ruins and natural attractions such as the Triple Falls.​
+Best Time to Visit: October to March.​
+Image: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/62/13/76/pillars-at-kachari-ruins.jpg?w=1200&h=-1&s=1
+Location : https://maps.app.goo.gl/ZKttd8aYPEHwhtDH7
+
+3. Mokokchung
+Description: Considered the cultural center of the Ao Naga tribe, Mokokchung offers visitors a glimpse into traditional Naga life, with its vibrant festivals and scenic landscapes.​
+Best Time to Visit: October to June.​ 
+Image: https://res.cloudinary.com/kmadmin/image/upload/v1628589458/kiomoi/Mokokchung_1628589457653.jpg
+Location :https://maps.app.goo.gl/nUH2nDqtFQfxS9fz9
+
+4. Mon
+Description: Home to the Konyak tribe, Mon is famed for its unique culture and traditions, including the practice of headhunting in the past. The region offers picturesque landscapes and traditional villages.​ 
+Best Time to Visit: October to March.​ 
+Image: https://www.footloosedev.com/wp-content/uploads/2017/12/nagaland-village.jpg
+Location : https://maps.app.goo.gl/RJLDT2bCsVnQupmM6
+
+5. Khonoma Village
+Description: Known as Asia's first green village, Khonoma has implemented community-led conservation efforts to protect its forests and wildlife. Visitors can experience eco-tourism, traditional Angami Naga culture, and scenic terraced fields.​ 
+Best Time to Visit: September to April.​
+Image: https://footloosedev.com/wp-content/uploads/2017/12/khonoma-kohima.jpg
+Location :https://maps.app.goo.gl/qWgjRhf8hqX5iFpSA
+
+State: Sikkim
+Capital: Gangtok
+1. Gangtok
+Description: The capital city, Gangtok, offers a harmonious blend of tradition and modernity. Perched at an altitude of 1,650 meters, it provides panoramic views of the Himalayas. Key attractions include the Rumtek Monastery, Enchey Monastery, and the bustling MG Marg.​
+Location : https://maps.app.goo.gl/n16oGg89Jau6jxgS7
+Image: https://s7ap1.scene7.com/is/image/incredibleindia/tsomgo-lake-gangtok-sikkim-2-attr-hero?qlt=82&ts=1727355185446
+Best Time to Visit: March to June and September to November.​
+
+2. Pelling
+Description: A tranquil town known for its stunning views of Mount Kanchenjunga, Pelling is also home to attractions like the Pemayangtse Monastery and the Rabdentse Ruins.​
+Best Time to Visit: March to May and September to December.​
+Image: https://www.trekkinginsikkims.com/ServerImage/a8a3f238-4431-46bc-82f5-a9c3a114e834.jpg
+Location :https://maps.app.goo.gl/P9bdVwC2DpCvDtsv7
+
+3. Tsomgo Lake
+Description: Also known as Changu Lake, this glacial lake is situated at an elevation of 3,753 meters. Surrounded by snow-capped mountains, it's a sacred site for the locals.​
+Location : https://maps.app.goo.gl/nPSPndf5qNtPhq2AA
+Image: https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2023/12/12/f09dff586c1bc6922554274fb5a451db_1000x1000.jpg
+Best Time to Visit: April to May and October to November.​
+
+4. Nathula Pass
+Description: A mountain pass connecting Sikkim with China's Tibet Autonomous Region, Nathula is part of the ancient Silk Route. Visitors can witness the Indo-China border trade market and enjoy mesmerizing views.​
+Image: https://nomadicweekends.com/blog/wp-content/uploads/2019/03/Nathula-Pass.jpg
+Location :https://maps.app.goo.gl/nQSPkHKW73cSkQCE7
+Best Time to Visit: May to October.​
+
+5. Yumthang Valley
+Description: Known as the "Valley of Flowers," Yumthang is a paradise for nature lovers, especially during the spring when rhododendrons bloom in abundance.​
+Location : https://maps.app.goo.gl/eiaQzaLKBN5m7v9K6
+Image: https://www.sikkimtourismindia.com/uploads/yumthong-tour.jpg
+Best Time to Visit: April to June and September to November.​
+
+State: Jharkhand
+Capital: Ranchi
+1. Ranchi
+Description: The capital city, Ranchi, is often called the "City of Waterfalls" due to its numerous cascades like Dassam Falls and Hundru Falls. It also boasts scenic spots such as Tagore Hill and the Rock Garden.​
+Best Time to Visit: October to March.​
+Image: https://chanakyabnrranchi.com/wp-content/uploads/2025/01/attractions-in-ranchi.jpg
+Location :https://maps.app.goo.gl/6qSE5TxH6RkAnbwX8
+
+2. Jamshedpur
+Description: Known as the "Steel City," Jamshedpur is home to Tata Steel and offers attractions like Jubilee Park, a vast urban park, and the Tata Steel Zoological Park.​
+Best Time to Visit: November to February.​
+Image: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/e2/a5/9a/jubilee-park.jpg?w=1200&h=-1&s=1
+Location:https://maps.app.goo.gl/FRv12RxCLJN5ao7H7?g_st=aw
+
+3. Deoghar
+Description: A significant pilgrimage center, Deoghar houses the Baidyanath Temple, one of the twelve Jyotirlingas. The town also offers serene spots like Nandan Pahar and Trikuta Hills.​
+Best Time to Visit: October to March.​
+Image: https://www.ishaansarovarportico.com/img/baidyanath-dham-deoghar.jpg
+Location:https://maps.app.goo.gl/ZH2Ftuh6DrZDDiEaA?g_st=aw
+
+4. Hazaribagh
+Description: Known for the Hazaribagh Wildlife Sanctuary, this area offers rich biodiversity and scenic landscapes. The Canary Hill and Hazaribagh Lake are also popular attractions.​
+Location:https://maps.app.goo.gl/BYPVj7RBV9JciZao8?g_st=aw
+Image: https://s7ap1.scene7.com/is/image/incredibleindia/hazaribagh-national-park-ranchi-jharkhand-1-attr-hero?qlt=82&ts=1727010993475
+Best Time to Visit: October to April.​ 
+
+5. Netarhat
+Description: Dubbed the "Queen of Chotanagpur," Netarhat is a hill station known for its stunning sunrises and sunsets, especially from the Magnolia Point.​
+Best Time to Visit: October to March.​
+Image: https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/01/08/9ffc869f0419cc62a4e18896dc9b388b_1000x1000.jpg
+Location:https://maps.app.goo.gl/3m35pWHoe5C1w5qJ9?g_st=aw
+
+State: Bihar
+Capital: Patna
+1. Bodh Gaya
+Description: Renowned as the place where Gautama Buddha attained enlightenment under the Bodhi Tree, Bodh Gaya is a UNESCO World Heritage Site and a significant pilgrimage destination for Buddhists worldwide. The Mahabodhi Temple complex stands as a testament to this profound event.​
+Image: https://upload.wikimedia.org/wikipedia/commons/5/57/Great_Buddha_Statue%2C_Bodh_Gaya.jpg
+Location:https://maps.app.goo.gl/RKED5J4RF6wcEuLa8?g_st=aw
+Best Time to Visit: October to March.​
+
+2. Nalanda
+Description: Home to the ancient Nalanda University, one of the world's first residential universities, this site offers a glimpse into early academic excellence. The ruins reflect a rich architectural heritage and are also recognized as a UNESCO World Heritage Site.​
+Location:https://maps.app.goo.gl/q3Xzy1TobrEbkjkG7?g_st=aw
+Image: https://upload.wikimedia.org/wikipedia/commons/d/dd/Temple_No.-_3%2C_Nalanda_Archaeological_Site.jpg
+Best Time to Visit: October to March.​
+
+3. Rajgir
+Description: Nestled in a valley surrounded by hills, Rajgir is sacred to both Buddhists and Jains. It was the ancient capital of the Magadha Empire and hosts attractions like the Vulture's Peak and hot springs.​
+Best Time to Visit: October to March.​
+Image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGrqpkNZnrxShGKDLvd6GuOOVPBZ1oq0qn6w&s
+Location:https://maps.app.goo.gl/p1PdTpUkMzMmKaaTA?g_st=aw
+
+4. Patna
+Description: The capital city of Bihar, Patna, boasts a rich historical tapestry with sites like the Patna Sahib Gurudwara, Golghar, and the Patna Museum. Its vibrant markets and riverside ghats add to its charm.​
+Best Time to Visit: October to March.​
+Image: https://tourism.bihar.gov.in/content/dam/bihar-tourism/images/category_a/patna/buddha_smriti_park/buddha-samiti-park.jpg/jcr:content/renditions/cq5dam.web.480.480.jpeg
+Location:https://maps.app.goo.gl/YjCHYrESANkpDmDK6?g_st=aw
+
+5. Vaishali
+Description: An important archaeological site, Vaishali is believed to be the world's first republic. It's also significant in Buddhist and Jain traditions, being the birthplace of Lord Mahavira and a place where Buddha delivered his last sermon.​
+Location:https://maps.app.goo.gl/Xwjerjv9RnBy23VY6?g_st=aw
+Image: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/b2/07/89/ananda-stupa-with-ashoka.jpg?w=1200&h=700&s=1
+Best Time to Visit: October to March.​
+
+State: Andaman and Nicobar Islands(UT)
+Capital: Port Blair
+1. Radhanagar Beach
+Description: Located on Havelock Island (now Swaraj Dweep), Radhanagar Beach is often cited as one of Asia's best beaches, featuring powdery white sands and clear turquoise waters. ​
+Location:https://maps.app.goo.gl/459PVovskrHKT9P7A?g_st=aw
+Image: https://www.andamanocean.in/wp-content/uploads/2023/04/radhanagar-beach-img2-min-1024x683.jpg
+Best Time to Visit: October and April
+
+2. Cellular Jail
+Description: Situated in Port Blair, the Cellular Jail, also known as "Kala Pani," was a colonial prison used by the British to exile political prisoners. Today, it stands as a national memorial, offering light and sound shows that depict its historical significance.
+Location:​https://maps.app.goo.gl/Cmauznuxj5vzGVpG7?g_st=aw
+Image: https://elinepa.org/wp-content/uploads/2023/08/Kala-Pani-cover-800x415.jpg
+Best Time to Visit: October and April
+
+3. Mahatma Gandhi Marine National Park
+Description: This park comprises numerous islands and is celebrated for its coral reefs and marine biodiversity. Activities like snorkeling and glass-bottom boat rides provide visitors with an intimate view of underwater life.​
+Best Time to Visit: October and April
+Image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJkmYPC-Ha0-i-Mp9jLYmHoN2WzTTWQ5jpQ&s
+Location:https://maps.app.goo.gl/fNJkgXvwB52ShANw5?g_st=aw
+
+4. Baratang Island
+Description: Known for its limestone caves and mangrove creeks, Baratang offers a unique experience of the islands' geological formations and rich biodiversity.
+Best Time to Visit: October and April
+Image: https://www.andamantourism.org/wp-content/uploads/2023/12/baratang-island-andaman.jpg
+Location:https://maps.app.goo.gl/qX12YXhomgj4T5rP9?g_st=aw
+
+State: Dadra and Nagar Haveli and Daman and Diu (UT)
+Capital: Daman
+1. Diu Fort
+Description: Constructed by the Portuguese during the 16th century, Diu Fort stands as a testament to colonial architecture and offers panoramic views of the Arabian Sea.​
+Location:https://maps.app.goo.gl/YRuPtgHnVMWTP4Pb6?g_st=aw
+Image: https://www.holidify.com/images/cmsuploads/compressed/Diu-Fort-1_20180123223556.jpg
+Best Time to Visit: October and March
+
+2. Gangeshwar Mahadev Temple
+Description: Located near Fudam village in Diu, this temple is dedicated to Lord Shiva and is renowned for its five Shiva Lingas situated amidst rocks on the seashore. ​ 
+Best Time to Visit: October and March
+Image: https://api.theindia.co.in/storage/image/places/shiv-linga-gangeswar-temple_519.jpeg
+Location:https://maps.app.goo.gl/QVetVKe2XiB9bNmYA?g_st=aw
+
+3. Vasona Lion Safari
+Description: Situated in Dadra and Nagar Haveli, this sanctuary provides visitors with the opportunity to observe Asiatic lions in their natural habitat. ​ 
+Best Time to Visit: October and March
+Image: https://xplro.com/wp-content/uploads/2024/08/Xplro-2024-08-02T014230.171.jpg.webp
+Location:https://maps.app.goo.gl/16WuVpS6m6r3atRh7?g_st=aw
+
+4.Fudam Bird Sanctuary
+Description: A haven for bird enthusiasts, this sanctuary attracts various migratory species, including flamingos and painted storks.
+Best Time to Visit: October and March
+Image: https://content3.jdmagicbox.com/comp/def_content_category/bird-sanctuary/dbdccce2bf-bird-sanctuary-4-dwhim.jpg
+Location:https://maps.app.goo.gl/vZgUUwQv9yaiPRTJ8?g_st=aw

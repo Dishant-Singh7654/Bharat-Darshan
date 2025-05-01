@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 36 100% 98%; /* Warm cream background */
+    --foreground: 25 80% 20%; /* Rich brown text */
+    --card: 0 0% 100%;
+    --card-foreground: 25 80% 20%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 25 80% 20%;
+    --primary: 27 100% 57%; /* Saffron - FF7722 */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 142 85% 27%; /* Indian flag green - 138808 */
+    --secondary-foreground: 0 0% 100%;
+    --muted: 36 30% 90%;
+    --muted-foreground: 25 40% 40%;
+    --accent: 240 100% 41%; /* Deep blue - 0000CE */
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 27 70% 90%;
+    --input: 27 70% 90%;
+    --ring: 27 100% 57%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 220 40% 10%;
+    --foreground: 42 100% 95%;
+    --card: 220 40% 13%;
+    --card-foreground: 42 100% 95%;
+    --popover: 220 40% 13%;
+    --popover-foreground: 42 100% 95%;
+    --primary: 15 100% 50%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 199 74% 40%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 220 40% 20%;
+    --muted-foreground: 42 10% 80%;
+    --accent: 120 60% 40%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 220 40% 20%;
+    --input: 220 40% 20%;
+    --ring: 15 100% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23FF7722' fill-opacity='0.05'%3E%3Cpath d='M30,5 L35,15 L45,15 L37.5,22 L40,32 L30,27 L20,32 L22.5,22 L15,15 L25,15 Z M5,30 L10,40 L20,40 L12.5,47 L15,57 L5,52 L-5,57 L-2.5,47 L-10,40 L0,40 Z M55,30 L60,40 L70,40 L62.5,47 L65,57 L55,52 L45,57 L47.5,47 L40,40 L50,40 Z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  }
+}
+
+.glass-card {
+  @apply bg-white/20 backdrop-blur-lg border border-white/30 shadow-xl;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+@keyframes kenburns {
+  0% {
+    transform: scale(1) translate(0, 0);
+  }
+  50% {
+    transform: scale(1.1) translate(-1%, -1%);
+  }
+  100% {
+    transform: scale(1) translate(0, 0);
+  }
+}
+
+.animate-kenburns {
+  animation: kenburns 20s ease-in-out infinite;
+}
+
+@keyframes bounce-slow {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-bounce-slow {
+  animation: bounce-slow 3s ease-in-out infinite;
+}
+
+/* Indian cultural heritage themed utility classes */
+.india-gradient-bg {
+  background: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(var(--secondary)) 100%);
+}
+
+.travel-card {
+  @apply relative overflow-hidden rounded-lg transition-all duration-300;
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid rgba(255, 119, 34, 0.1);
+}
+
+.travel-card-hover:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(255, 119, 34, 0.3);
+}
+
+.travel-gradient-bg {
+  background: linear-gradient(135deg, 
+    hsl(var(--primary)/0.7) 0%, 
+    hsl(var(--secondary)/0.7) 50%,
+    hsl(var(--accent)/0.7) 100%);
+}
+
+/* Traditional Indian patterns */
+.rangoli-border {
+  background-image: repeating-linear-gradient(
+    45deg,
+    hsl(var(--primary)) 0,
+    hsl(var(--primary)) 2px,
+    transparent 0,
+    transparent 8px
+  );
+}
+
+.paisley-pattern {
+  background-image: radial-gradient(
+    circle at 50% 50%,
+    hsl(var(--primary)) 10%,
+    transparent 10.5%
+  ), radial-gradient(
+    circle at 50% 50%,
+    hsl(var(--secondary)) 10%,
+    transparent 10.5%
+  );
+  background-size: 20px 20px;
+  background-position: 0 0, 10px 10px;
+  background-repeat: repeat;
+}
+
+.mandala-border {
+  border: 4px solid transparent;
+  background-clip: padding-box;
+  position: relative;
+}
+
+.mandala-border::after {
+  content: "";
+  position: absolute;
+  top: -4px; right: -4px; bottom: -4px; left: -4px;
+  background: linear-gradient(45deg, hsl(var(--primary)), hsl(var(--secondary)), hsl(var(--accent)));
+  border-radius: inherit;
+  z-index: -1;
+}
+
+/* Button styling for Indian theme */
+.india-button {
+  @apply relative overflow-hidden rounded-md font-medium transition-all duration-300;
+  background: linear-gradient(to right, hsl(var(--primary)), hsl(var(--primary)/0.8));
+  box-shadow: 0 4px 10px rgba(255, 119, 34, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  position: relative;
+  z-index: 1;
+}
+
+.india-button::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(120deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transform: translateX(-100%);
+  transition: transform 0.6s;
+  z-index: -1;
+}
+
+.india-button:hover::before {
+  transform: translateX(100%);
+}
+
+.india-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(255, 119, 34, 0.4);
+}
+
+.india-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 5px rgba(255, 119, 34, 0.3);
+}
+
+.india-button-outline {
+  @apply relative overflow-hidden rounded-md font-medium transition-all duration-300;
+  background: transparent;
+  box-shadow: 0 2px 6px rgba(19, 136, 8, 0.2);
+  border: 2px solid hsl(var(--secondary));
+  color: hsl(var(--secondary));
+  position: relative;
+  z-index: 1;
+}
+
+.india-button-outline::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(120deg, transparent, rgba(19, 136, 8, 0.1), transparent);
+  transform: translateX(-100%);
+  transition: transform 0.6s;
+  z-index: -1;
+}
+
+.india-button-outline:hover::before {
+  transform: translateX(100%);
+}
+
+.india-button-outline:hover {
+  background-color: hsl(var(--secondary)/0.1);
+  transform: translateY(-2px);
+}
+
+/* Additional Indian cultural decorative elements */
+.jhumka-pattern {
+  position: relative;
+}
+
+.jhumka-pattern::before,
+.jhumka-pattern::after {
+  content: "";
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--secondary)));
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.3);
+}
+
+.jhumka-pattern::before {
+  top: -6px;
+  left: 10px;
+}
+
+.jhumka-pattern::after {
+  top: -6px;
+  right: 10px;
+}
+
+.kolam-pattern {
+  background-image: radial-gradient(circle at 0% 0%, transparent 9px, hsl(var(--primary)/0.1) 10px, transparent 11px),
+                    radial-gradient(circle at 100% 0%, transparent 9px, hsl(var(--secondary)/0.1) 10px, transparent 11px),
+                    radial-gradient(circle at 100% 100%, transparent 9px, hsl(var(--accent)/0.1) 10px, transparent 11px),
+                    radial-gradient(circle at 0% 100%, transparent 9px, hsl(var(--primary)/0.1) 10px, transparent 11px);
+  background-size: 40px 40px;
+  background-position: 0 0;
+}
