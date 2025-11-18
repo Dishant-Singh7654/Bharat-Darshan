@@ -25,11 +25,21 @@ interface NewsApiResponse {
 // Available news categories
 export type NewsCategory = 'all' | 'culture' | 'heritage' | 'tourism';
 
+function getRuntimeEnv(key: string): string | undefined {
+  const w = typeof window !== 'undefined' ? (window as any) : undefined;
+  return w?.__ENV?.[key];
+}
+
+// Prefer runtime-provided env (populated by public/env.js on hosted site) then fall back to Vite env
+const NEWS_API_KEY = (getRuntimeEnv('VITE_NEWS_API_KEY') || import.meta.env.VITE_NEWS_API_KEY) as string | undefined;
+
 // Function to fetch news related to Indian culture and heritage with optional category filtering
 export const fetchIndianCultureNews = async (category: NewsCategory = 'all'): Promise<NewsArticle[]> => {
   try {
-    // You need to replace 'YOUR_API_KEY' with your actual NewsAPI key
-    const apiKey = 'b77e04cc4fca47aeac93e9ef9b3ae1a1';
+    if (!NEWS_API_KEY) {
+      console.warn('News API key is not set. Provide VITE_NEWS_API_KEY via environment or public/env.js.');
+      return [];
+    }
     
     // Create a query based on the selected category
     let query = '';
@@ -51,7 +61,7 @@ export const fetchIndianCultureNews = async (category: NewsCategory = 'all'): Pr
     }
     
     // Set up the API URL with parameters
-    const url = `https://newsapi.org/v2/everything?q=${query}&language=en&sortBy=publishedAt&pageSize=15&apiKey=${apiKey}`;
+    const url = `https://newsapi.org/v2/everything?q=${query}&language=en&sortBy=publishedAt&pageSize=15&apiKey=${NEWS_API_KEY}`;
     
     const response = await fetch(url);
     

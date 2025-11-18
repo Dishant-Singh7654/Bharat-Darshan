@@ -1,7 +1,13 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const API_KEY = import.meta.env.VITE_GEMINI_API_KEY as string;
-const ENV_MODEL = (import.meta.env.VITE_GEMINI_MODEL as string) || "";
+// Prefer runtime-provided keys when available (populated by public/env.js on hosted site)
+function getRuntimeEnv(key: string): string | undefined {
+  const w = typeof window !== "undefined" ? (window as any) : undefined;
+  return w?.__ENV?.[key];
+}
+
+const API_KEY = (getRuntimeEnv("VITE_GEMINI_API_KEY") || import.meta.env.VITE_GEMINI_API_KEY) as string;
+const ENV_MODEL = ((getRuntimeEnv("VITE_GEMINI_MODEL") || import.meta.env.VITE_GEMINI_MODEL) as string) || "";
 
 // Prefer stable, widely available PRO variants only to avoid 404s on unsupported FLASH models
 const STATIC_MODEL_CANDIDATES = [
@@ -18,7 +24,7 @@ let chosenModel: string | null = null; // cache successful model name
 function getClient() {
   if (!genAI) {
     if (!API_KEY) {
-      console.warn("Gemini API key is not set. Please define VITE_GEMINI_API_KEY in your environment.");
+      console.warn("Gemini API key is not set. Please define VITE_GEMINI_API_KEY in your environment or public/env.js.");
     }
     genAI = new GoogleGenerativeAI(API_KEY || "");
   }
