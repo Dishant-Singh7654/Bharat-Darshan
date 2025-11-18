@@ -1,69 +1,51 @@
-# Welcome to your Lovable project
+# India Cultural Heritage Website
 
-## Project info
+[🌐 Visit the Live Demo](https://bharat-darshan-xs32.onrender.com/)
 
-**URL**: https://lovable.dev/projects/08a28b77-8c5e-44bd-8201-d7f277d043f7
+## Overview
+This website is a comprehensive platform to explore the rich cultural and tourist heritage of India, state by state. It is designed for travelers, culture enthusiasts, and anyone interested in discovering the diversity of India. The platform offers detailed information, interactive features, and tools to plan, track, and enhance your travel experience.
 
-## How can I edit this code?
+## Features
+- **State-wise Cultural & Tourist Information**: Browse detailed pages for each Indian state, including history, culture, festivals, cuisine, and must-visit destinations.
+- **Tourist Attractions**: Discover top tourist spots, monuments, natural wonders, and hidden gems with descriptions and images.
+- **Hotel Recommendations**: Get curated hotel suggestions for each state and major city, including ratings and booking links.
+- **Search & Filtering**: Easily search for states, cities, attractions, or hotels. Filter results by category, popularity, or user preferences.
+- **Visited Places Tracking**: Mark places you have visited and visualize your travel journey across India.
+- **Wishlist**: Add destinations and attractions to your wishlist for future trips.
+- **User Reviews & Ratings**: Read and submit reviews for attractions and hotels to help other travelers make informed decisions.
+- **Travel Progress Dashboard**: View your travel statistics, completed states, wishlist, and reviews in a personalized dashboard.
+- **Responsive & Accessible Design**: Enjoy a seamless experience on desktop and mobile devices, with accessibility best practices followed throughout.
 
-There are several ways of editing your application.
+## Technologies Used
+- **React**: For building dynamic and interactive user interfaces.
+- **TypeScript**: Ensures type safety and maintainable code.
+- **Vite**: Provides fast development and optimized builds.
+- **Tailwind CSS**: Utility-first CSS framework for rapid, responsive, and modern UI design.
+- **shadcn-ui**: Component library for accessible and customizable UI elements.
+- **Other Libraries**: May include React Router for navigation, context API for state management, and integration with external APIs for hotel and location data.
 
-**Use Lovable**
+## Getting Started
+1. **Clone the repository**
+   ```sh
+   git clone <YOUR_GIT_URL>
+   cd india-cultural-heritage-main
+   ```
+2. **Install dependencies**
+   ```sh
+   npm install
+   ```
+3. **Start the development server**
+   ```sh
+   npm run dev
+   ```
+4. **Open the app**
+   Visit [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal).
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/08a28b77-8c5e-44bd-8201-d7f277d043f7) and start prompting.
+## Deployment
+You can deploy this project using [Lovable](https://lovable.dev/projects/08a28b77-8c5e-44bd-8201-d7f277d043f7) or on platforms like Netlify or Vercel. For custom domain setup, refer to the [Custom domains guide](https://docs.lovable.dev/tips-tricks/custom-domain/).
 
-Changes made via Lovable will be committed automatically to this repo.
+## Contributing
+Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to help improve the platform.
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/08a28b77-8c5e-44bd-8201-d7f277d043f7) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+## License
+This project is open-source and available under the MIT License.

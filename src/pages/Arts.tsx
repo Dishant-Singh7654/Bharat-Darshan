@@ -12,7 +12,7 @@ interface ArtForm {
   significance: string;
 }
 
-const ARTS_DATA: ArtForm[] = [
+export const ARTS_DATA: ArtForm[] = [
   {
     name: "Madhubani Painting",
     state: "Bihar",

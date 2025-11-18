@@ -13,13 +13,13 @@ const TEAM_MEMBERS: TeamMember[] = [
     name: "Dishant",
     role: "Backend Developer",
     image: "/dishant.jpg",
-    contribution: "Led the team as coordinator while focusing on backend development. Implemented core functionalities and managed database systems."
+    contribution: "Led the team as coordinator while focusing on Backend development. Implemented core functionalities and managed database systems."
   },
   {
     name: "Gungun",
     role: "Frontend Developer",
     image: "/gungun.jpg",
-    contribution: "Contributed to backend development as a volunteer. Helped implement server-side features and data processing systems."
+    contribution: "Contributed to Frontend development as a volunteer. Helped implement website features and design website layout."
   },
   {
     name: "Angad",

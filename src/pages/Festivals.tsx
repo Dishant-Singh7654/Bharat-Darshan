@@ -106,7 +106,7 @@ const FESTIVALS_DATA: Festival[] = [
     bestPlace: "Goa",
     state: "Goa",
     description: "Christmas celebrates the birth of Jesus Christ and is observed with festive decorations, midnight masses, caroling, and joyful family gatherings. It brings a spirit of warmth and goodwill throughout communities.",
-    imageUrl: "https://images.wanderon.in/blogs/new/2022/12/visit-the-christmas-market-to-shop-for-something-special-1.jpg"
+    imageUrl: "https://i.ibb.co/TBmXm8YW/chrismas.jpg"
   },
   {
     name: "Pongal",
@@ -114,7 +114,7 @@ const FESTIVALS_DATA: Festival[] = [
     bestPlace: "Thanjavur",
     state: "Tamil Nadu",
     description: "Pongal is a vibrant Tamil harvest festival that honors the sun and the bountiful harvest. It is celebrated by cooking the traditional Pongal dish, creating colorful kolams, and enjoying community festivities.",
-    imageUrl: "https://i0.wp.com/www.easeindiatrip.com/blog/wp-content/uploads/2024/12/Pongal-Festival-02.jpg"
+    imageUrl: "https://www.hlimg.com/images/events/738X538/dfearg_1537262920e.jpg"
   },
   {
     name: "Onam",
@@ -186,7 +186,7 @@ const FESTIVALS_DATA: Festival[] = [
     bestPlace: "Ayodhya",
     state: "Uttar Pradesh",
     description: "Ram Navami celebrates the birth of Lord Rama, a revered figure in Hindu mythology celebrated for his righteousness and valor. Devotees observe the day with fasting, devotional singing, and dramatic reenactments of episodes from the Ramayana.",
-    imageUrl: "https://ihplb.b-cdn.net/wp-content/uploads/2021/04/Ram-Navami-in-Ayodhya1.jpg"
+    imageUrl: "https://www.trawell.in/blog/wp-content/uploads/2019/04/Ayodhya.jpg"
   },
   {
     name: "Karva Chauth",

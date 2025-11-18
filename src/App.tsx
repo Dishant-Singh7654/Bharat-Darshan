@@ -22,6 +22,7 @@ import Profile from "./pages/Profile";
 import Dashboard from "./pages/Dashboard";
 import ScrollToTop from '@/components/ScrollToTop';
 import Footer from './components/Footer';
+import BharatAIChat from '@/components/BharatAIChat';
 
 const queryClient = new QueryClient();
 
@@ -62,6 +63,7 @@ const App = () => (
                 </Routes>
               </main>
               <Footer />
+              <BharatAIChat />
             </div>
           </Router>
         </UserPlacesProvider>
